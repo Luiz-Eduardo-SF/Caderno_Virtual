@@ -19,14 +19,14 @@ A internet não é só um monte de redes conectadas. Ela também pode ser vista 
 com partes específicas que trabalham juntas para entregar tudo que você acessa online.<br>
 
 Essas partes são:
->1. **Sistemas Finais (ou dispositivos finais):**<br>
->	São os dispositivos que usamos no dia a dia: Smartphones, computadores, TVs inteligentes, etc.
+1. **Sistemas Finais (ou dispositivos finais):**<br>
+	São os dispositivos que usamos no dia a dia: Smartphones, computadores, TVs inteligentes, etc.
 
->2. **Núcleo da Rede:**<br>
->	É a parte responsável por transportar os dados de um ponto a outro. Inclui grandes roteadores e conexões de alta velocidade - tipo as "autopistas" da internet.
+2. **Núcleo da Rede:**<br>
+	É a parte responsável por transportar os dados de um ponto a outro. Inclui grandes roteadores e conexões de alta velocidade - tipo as "autopistas" da internet.
 
->3. **Redes de Acesso:**<br>
->	São as conexões que ligam seu dispositivo ao núcleo da rede. Pode ser Wi-Fi, fibra óptica, 4G/5G, etc.
+3. **Redes de Acesso:**<br>
+	São as conexões que ligam seu dispositivo ao núcleo da rede. Pode ser Wi-Fi, fibra óptica, 4G/5G, etc.
 
 A combinação dessas três partes é o que faz com que você consiga, por exemplo, abrir um app no celular e 
 acessar um servidor do outro lado do mundo sem nem perceber o que acontece por trás.
