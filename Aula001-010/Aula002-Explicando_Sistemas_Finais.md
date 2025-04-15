@@ -1,4 +1,4 @@
-## 💻 Explicando Sistemas Finais (Hosts)?
+# 💻 Explicando Sistemas Finais (Hosts)?
 
 Os **sistemas finais**, ou simplesmente **hosts**, são os dispositivos conectados à internet que usamos no dia a dia para acessar aplicações, como navegar na web, assistir a vídeos ou enviar mensagens.
 
@@ -6,11 +6,11 @@ Eles estão na **ponta da rede**, ou seja, na **periferia da internet**, onde tu
 
 ---
 
-## 📂 Classificação dos Sistemas Finais
+# 📂 Classificação dos Sistemas Finais
 
 Esses dispositivos podem ser divididos em duas categorias principais:
 
-### 👩‍💻 1. Clientes
+## 👩‍💻 1. Clientes
 
 São os dispositivos que **nós usamos diretamente**, como:
 
@@ -22,7 +22,7 @@ Eles são responsáveis por **fazer requisições**, ou seja, pedir informaçõe
 
 ---
 
-### 🖥️ 2. Servidores
+## 🖥️ 2. Servidores
 
 São as máquinas que:
 
@@ -35,7 +35,7 @@ Em outras palavras: qualquer máquina pode ser um servidor, desde que esteja rod
 
 ---
 
-## 📌 Em resumo:
+# 📌 Em resumo:
 
 - **Clientes** fazem os pedidos.  
 - **Servidores** entregam as respostas.  
