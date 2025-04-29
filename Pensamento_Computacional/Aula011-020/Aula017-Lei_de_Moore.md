@@ -51,8 +51,11 @@
 
 ---
 
-# Resumo Final
+# Por que isso importa?
 
-A **Lei de Moore** foi o motor invisível por trás da explosão tecnológica que vivemos hoje.  
-Ela permitiu que dispositivos ficassem **menores**, **mais rápidos** e **muito mais baratos**, viabilizando a criação de **smartphones**, **computadores pessoais**, **supercomputadores**, **inteligência artificial** e até **internet das coisas**.  
-Mesmo que a Lei esteja desacelerando recentemente, seu impacto já moldou irreversivelmente a sociedade moderna. &#x1F9E0;
+A **Lei de Moore** mostra:
+- **Hardware evolui exponencialmente**.
+- **Tecnologia fica mais barata e acessível**.
+- **Sociedade inteira muda** com essa evolução (celulares, IA, carros autônomos, etc).
+
+---
