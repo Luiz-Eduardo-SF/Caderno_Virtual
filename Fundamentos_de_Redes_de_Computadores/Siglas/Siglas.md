@@ -49,6 +49,12 @@
 - **HTTPS** = HTTP Secure  
   ‣ Versão segura do HTTP com SSL/TLS.
 
+- **SSL (Secure Sockets Layer)**  
+  ‣ Protocolo antigo de segurança para proteger dados na internet, hoje está obsoleto.
+
+- **TLS (Transport Layer Security)**  
+  ‣ Evolução do SSL, mais seguro, usado atualmente para criptografar conexões.
+
 - **FTP** = File Transfer Protocol  
   ‣ Protocolo para envio e recebimento de arquivos.
 
